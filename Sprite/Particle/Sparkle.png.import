@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctehg8isedupk"
-path="res://.godot/imported/Sparkle.png-bd10059b3af9d782f3bced054a23b012.ctex"
+path="res://.godot/imported/Sparkle.png-6247d516fad6ad86a4a16f00e5d98e6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/Particle/Sparkle.png"
-dest_files=["res://.godot/imported/Sparkle.png-bd10059b3af9d782f3bced054a23b012.ctex"]
+source_file="res://Interface/Sprite/Particle/Sparkle.png"
+dest_files=["res://.godot/imported/Sparkle.png-6247d516fad6ad86a4a16f00e5d98e6d.ctex"]
 
 [params]
 

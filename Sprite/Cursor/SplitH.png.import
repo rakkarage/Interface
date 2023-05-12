@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdjytpc0j2w3g"
-path="res://.godot/imported/SplitH.png-9aa13cb29f40c598d84cc6e48d5345d5.ctex"
+path="res://.godot/imported/SplitH.png-a8ca9e6ca6158430a73878d2af0bddd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/Cursor/SplitH.png"
-dest_files=["res://.godot/imported/SplitH.png-9aa13cb29f40c598d84cc6e48d5345d5.ctex"]
+source_file="res://Interface/Sprite/Cursor/SplitH.png"
+dest_files=["res://.godot/imported/SplitH.png-a8ca9e6ca6158430a73878d2af0bddd2.ctex"]
 
 [params]
 

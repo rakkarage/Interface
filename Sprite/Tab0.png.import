@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bikmay2ddi47q"
-path="res://.godot/imported/Tab0.png-9bb82e54a6fedee7965df81691b30c01.ctex"
+path="res://.godot/imported/Tab0.png-34c6a6bb3bece7f146d68dbcf5835cb6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/Tab0.png"
-dest_files=["res://.godot/imported/Tab0.png-9bb82e54a6fedee7965df81691b30c01.ctex"]
+source_file="res://Interface/Sprite/Tab0.png"
+dest_files=["res://.godot/imported/Tab0.png-34c6a6bb3bece7f146d68dbcf5835cb6.ctex"]
 
 [params]
 

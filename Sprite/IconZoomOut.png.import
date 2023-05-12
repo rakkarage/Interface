@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkqnmy0uqtufn"
-path="res://.godot/imported/IconZoomOut.png-85ac36647d1ccafe33d804c47b36aa10.ctex"
+path="res://.godot/imported/IconZoomOut.png-ab0711b70ee08065998ce1c35a0ee522.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/IconZoomOut.png"
-dest_files=["res://.godot/imported/IconZoomOut.png-85ac36647d1ccafe33d804c47b36aa10.ctex"]
+source_file="res://Interface/Sprite/IconZoomOut.png"
+dest_files=["res://.godot/imported/IconZoomOut.png-ab0711b70ee08065998ce1c35a0ee522.ctex"]
 
 [params]
 

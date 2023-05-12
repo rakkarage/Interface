@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fp06xbrxrxq5"
-path="res://.godot/imported/GameCenter.png-e8e005a75e698b0cd584024472fef322.ctex"
+path="res://.godot/imported/GameCenter.png-3e4cd7e408657a90615be4060ef3d92b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/GameCenter.png"
-dest_files=["res://.godot/imported/GameCenter.png-e8e005a75e698b0cd584024472fef322.ctex"]
+source_file="res://Interface/Sprite/GameCenter.png"
+dest_files=["res://.godot/imported/GameCenter.png-3e4cd7e408657a90615be4060ef3d92b.ctex"]
 
 [params]
 

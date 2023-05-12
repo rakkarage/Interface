@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdemaetksl23n"
-path="res://.godot/imported/IconQuest.png-f6a80d72f64d052a3e815acb96a9f0a4.ctex"
+path="res://.godot/imported/IconQuest.png-86b0c9dae28eaf7e49d9b2bdb2ab099e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/IconQuest.png"
-dest_files=["res://.godot/imported/IconQuest.png-f6a80d72f64d052a3e815acb96a9f0a4.ctex"]
+source_file="res://Interface/Sprite/IconQuest.png"
+dest_files=["res://.godot/imported/IconQuest.png-86b0c9dae28eaf7e49d9b2bdb2ab099e.ctex"]
 
 [params]
 

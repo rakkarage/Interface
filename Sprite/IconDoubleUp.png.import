@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqdjk4oqoljv8"
-path="res://.godot/imported/IconDoubleUp.png-7152cf9689b1edafc98a06fe55a0bffa.ctex"
+path="res://.godot/imported/IconDoubleUp.png-54042493f9c6ee72a078453c5bb35b92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/IconDoubleUp.png"
-dest_files=["res://.godot/imported/IconDoubleUp.png-7152cf9689b1edafc98a06fe55a0bffa.ctex"]
+source_file="res://Interface/Sprite/IconDoubleUp.png"
+dest_files=["res://.godot/imported/IconDoubleUp.png-54042493f9c6ee72a078453c5bb35b92.ctex"]
 
 [params]
 

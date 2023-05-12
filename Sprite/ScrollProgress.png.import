@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byq1ldl51lnrd"
-path="res://.godot/imported/ScrollProgress.png-16a3d63a88e8e2fa1cfedf398c8d8780.ctex"
+path="res://.godot/imported/ScrollProgress.png-4fcfe5a67820b3017836c19dd3a613ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/ScrollProgress.png"
-dest_files=["res://.godot/imported/ScrollProgress.png-16a3d63a88e8e2fa1cfedf398c8d8780.ctex"]
+source_file="res://Interface/Sprite/ScrollProgress.png"
+dest_files=["res://.godot/imported/ScrollProgress.png-4fcfe5a67820b3017836c19dd3a613ad.ctex"]
 
 [params]
 

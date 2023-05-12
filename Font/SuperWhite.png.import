@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2fannk8xx5ry"
-path="res://.godot/imported/SuperWhite.png-5682b6f69ac9cb5138b1152cf3f9209e.ctex"
+path="res://.godot/imported/SuperWhite.png-ba89cd5d161cc310d65bb3cd13951dd0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Font/SuperWhite.png"
-dest_files=["res://.godot/imported/SuperWhite.png-5682b6f69ac9cb5138b1152cf3f9209e.ctex"]
+source_file="res://Interface/Font/SuperWhite.png"
+dest_files=["res://.godot/imported/SuperWhite.png-ba89cd5d161cc310d65bb3cd13951dd0.ctex"]
 
 [params]
 

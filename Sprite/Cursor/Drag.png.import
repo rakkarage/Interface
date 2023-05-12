@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o1cictyddadq"
-path="res://.godot/imported/Drag.png-1e4460bd6aa8fb7f7e37241848c7338e.ctex"
+path="res://.godot/imported/Drag.png-d7d55780c1a30ddefad64cf88747d336.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/Cursor/Drag.png"
-dest_files=["res://.godot/imported/Drag.png-1e4460bd6aa8fb7f7e37241848c7338e.ctex"]
+source_file="res://Interface/Sprite/Cursor/Drag.png"
+dest_files=["res://.godot/imported/Drag.png-d7d55780c1a30ddefad64cf88747d336.ctex"]
 
 [params]
 

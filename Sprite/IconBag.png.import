@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn4xfhplakbx3"
-path="res://.godot/imported/IconBag.png-13a4729c1091cbcecea16a1b67f88c72.ctex"
+path="res://.godot/imported/IconBag.png-4127ce87883250a45fd27aad00eec4d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/IconBag.png"
-dest_files=["res://.godot/imported/IconBag.png-13a4729c1091cbcecea16a1b67f88c72.ctex"]
+source_file="res://Interface/Sprite/IconBag.png"
+dest_files=["res://.godot/imported/IconBag.png-4127ce87883250a45fd27aad00eec4d4.ctex"]
 
 [params]
 

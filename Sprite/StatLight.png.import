@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://camen8c00qqvr"
-path="res://.godot/imported/StatLight.png-bdba833c9b1a642ae91ad4177ab99aa1.ctex"
+path="res://.godot/imported/StatLight.png-077f998230ef575c96c8e17dd85f366b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/StatLight.png"
-dest_files=["res://.godot/imported/StatLight.png-bdba833c9b1a642ae91ad4177ab99aa1.ctex"]
+source_file="res://Interface/Sprite/StatLight.png"
+dest_files=["res://.godot/imported/StatLight.png-077f998230ef575c96c8e17dd85f366b.ctex"]
 
 [params]
 

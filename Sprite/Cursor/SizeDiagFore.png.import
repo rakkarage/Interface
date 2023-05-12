@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyuws3662xbpk"
-path="res://.godot/imported/SizeDiagFore.png-b9218b857ca0e80adafb36d23cc33b71.ctex"
+path="res://.godot/imported/SizeDiagFore.png-7776b4fb536a86a1d6232645f036a405.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/Cursor/SizeDiagFore.png"
-dest_files=["res://.godot/imported/SizeDiagFore.png-b9218b857ca0e80adafb36d23cc33b71.ctex"]
+source_file="res://Interface/Sprite/Cursor/SizeDiagFore.png"
+dest_files=["res://.godot/imported/SizeDiagFore.png-7776b4fb536a86a1d6232645f036a405.ctex"]
 
 [params]
 

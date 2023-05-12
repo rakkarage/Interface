@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj6lllxe1d4oh"
-path="res://.godot/imported/StatLevel.png-3cd5fe8d96e73f82ad737cc1802beff4.ctex"
+path="res://.godot/imported/StatLevel.png-16214752760edee54f8354705ec0761e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/StatLevel.png"
-dest_files=["res://.godot/imported/StatLevel.png-3cd5fe8d96e73f82ad737cc1802beff4.ctex"]
+source_file="res://Interface/Sprite/StatLevel.png"
+dest_files=["res://.godot/imported/StatLevel.png-16214752760edee54f8354705ec0761e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://morjx2cxedcq"
-path="res://.godot/imported/IconThrophy.png-6685a44b799f532ef68412c894db4c1a.ctex"
+path="res://.godot/imported/IconThrophy.png-8895faebc6b4e2837d39bb1a45c1b056.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/IconThrophy.png"
-dest_files=["res://.godot/imported/IconThrophy.png-6685a44b799f532ef68412c894db4c1a.ctex"]
+source_file="res://Interface/Sprite/IconThrophy.png"
+dest_files=["res://.godot/imported/IconThrophy.png-8895faebc6b4e2837d39bb1a45c1b056.ctex"]
 
 [params]
 

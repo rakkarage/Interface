@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqves8j4iyty5"
-path.s3tc="res://.godot/imported/MaskGate.png-3a3ac96e2685e4b11ddb35059f60d325.s3tc.ctex"
+path.s3tc="res://.godot/imported/MaskGate.png-d83bc8fab70e74873865a9ab91e22140.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://PixelInterface/Interface/Sprite/MaskGate.png"
-dest_files=["res://.godot/imported/MaskGate.png-3a3ac96e2685e4b11ddb35059f60d325.s3tc.ctex"]
+source_file="res://Interface/Sprite/MaskGate.png"
+dest_files=["res://.godot/imported/MaskGate.png-d83bc8fab70e74873865a9ab91e22140.s3tc.ctex"]
 
 [params]
 
