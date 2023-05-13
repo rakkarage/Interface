@@ -1,7 +1,7 @@
 @tool
 extends Control
 
-const _r = PI/2
+const _r := PI / 2
 
 func _ready() -> void:
 	get_node("..").connect("resized", _onResized)
