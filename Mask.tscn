@@ -1,6 +1,5 @@
-[gd_scene load_steps=7 format=3 uid="uid://dplcfrlu5as7j"]
+[gd_scene load_steps=6 format=3 uid="uid://dplcfrlu5as7j"]
 
-[ext_resource type="PackedScene" uid="uid://cpwpn22g1oh61" path="res://Interface/Back.tscn" id="1_qtcot"]
 [ext_resource type="Shader" path="res://Interface/Mask.gdshader" id="2_ld45x"]
 [ext_resource type="Texture2D" uid="uid://dqves8j4iyty5" path="res://Interface/Sprite/MaskGate.png" id="3_iqf8b"]
 
@@ -49,9 +48,6 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-
-[node name="Back" parent="." instance=ExtResource("1_qtcot")]
-layout_mode = 1
 
 [node name="Mask" type="ColorRect" parent="."]
 material = SubResource("1")
