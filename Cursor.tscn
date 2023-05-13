@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://cfn25x54ocu8r"]
 
-[ext_resource type="Script" path="res://PixelInterface/Interface/Cursor.gd" id="1"]
+[ext_resource type="Script" path="res://Interface/Cursor.gd" id="1"]
 [ext_resource type="SpriteFrames" uid="uid://b3kwuhc40sn8v" path="res://Interface/Cursors.tres" id="2_2dpcs"]
 
 [node name="Cursor" type="Node2D"]
