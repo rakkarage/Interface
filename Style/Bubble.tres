@@ -1,6 +1,6 @@
-[gd_resource type="StyleBoxTexture" load_steps=2 format=3]
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://dxb8nxl2m8els"]
 
-[ext_resource type="Texture2D" uid="uid://b4wl8ycdt85ep" path="res://PixelInterface/Interface/Sprite/Bubble.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://b4wl8ycdt85ep" path="res://Interface/Sprite/Bubble.png" id="1"]
 
 [resource]
 content_margin_left = 15.0

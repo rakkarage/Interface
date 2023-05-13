@@ -1,10 +1,10 @@
-[gd_scene load_steps=3 format=3]
+[gd_scene load_steps=3 format=3 uid="uid://ngj3rl71midb"]
 
-[ext_resource type="Shader" path="res://PixelInterface/Interface/Vignette.gdshader" id="1"]
+[ext_resource type="Shader" path="res://Interface/Vignette.gdshader" id="1_0yepf"]
 
 [sub_resource type="ShaderMaterial" id="1"]
-shader = ExtResource("1")
-shader_parameter/color = Color(1, 0, 0, 1)
+shader = ExtResource("1_0yepf")
+shader_parameter/color = Color(0.74902, 0, 0, 1)
 shader_parameter/radius = 0.75
 shader_parameter/softness = 0.45
 
