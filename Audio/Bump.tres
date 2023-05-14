@@ -1,4 +1,4 @@
-[gd_resource type="AudioStreamRandomizer" load_steps=2 format=3]
+[gd_resource type="AudioStreamRandomizer" load_steps=2 format=3 uid="uid://bytt3o5oowte"]
 
 [ext_resource type="AudioStream" uid="uid://b3ejq7hp1s10c" path="res://Interface/Audio/170141__timgormly__8-bit-bump.wav" id="1_wrkug"]
 

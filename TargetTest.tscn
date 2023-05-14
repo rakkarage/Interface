@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3 uid="uid://t6bh2r5antq5"]
+
+[ext_resource type="PackedScene" uid="uid://c0gglcpbg3xyp" path="res://Interface/Target.tscn" id="1_g1ixq"]
+
+[node name="Test" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Center" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Control" type="Control" parent="Center"]
+layout_mode = 2
+
+[node name="Target" parent="Center/Control" instance=ExtResource("1_g1ixq")]
+scale = Vector2(16, 16)

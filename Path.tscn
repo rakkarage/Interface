@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfvthl6ipvclo"]
+
+[ext_resource type="SpriteFrames" uid="uid://buc6l7uae7wp3" path="res://Interface/Path.tres" id="1_w6sc0"]
+
+[node name="Path" type="AnimatedSprite2D"]
+sprite_frames = ExtResource("1_w6sc0")
+autoplay = "default"

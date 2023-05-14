@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://c0gglcpbg3xyp"]
+
+[ext_resource type="SpriteFrames" uid="uid://wcrtb1w0rx23" path="res://Interface/TargetBack.tres" id="1_en3s2"]
+[ext_resource type="SpriteFrames" uid="uid://dwlgoce02im4a" path="res://Interface/TargetFore.tres" id="2_d6rml"]
+
+[node name="Target" type="Node2D"]
+position = Vector2(0, -8)
+
+[node name="Back" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("1_en3s2")
+autoplay = "default"
+frame = 1
+frame_progress = 0.0253553
+
+[node name="Fore" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("2_d6rml")
+autoplay = "default"
+frame_progress = 0.932966
