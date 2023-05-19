@@ -9,10 +9,7 @@ position = Vector2(0, -8)
 [node name="Back" type="AnimatedSprite2D" parent="."]
 sprite_frames = ExtResource("1_en3s2")
 autoplay = "default"
-frame = 1
-frame_progress = 0.0253553
 
 [node name="Fore" type="AnimatedSprite2D" parent="."]
 sprite_frames = ExtResource("2_d6rml")
 autoplay = "default"
-frame_progress = 0.932966
