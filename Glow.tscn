@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://b7dpi3oovkssm"]
+
+[ext_resource type="Material" uid="uid://k3snelvdd5ay" path="res://Interface/Glow.tres" id="1_76awc"]
+[ext_resource type="Texture2D" uid="uid://b8ppx43nin54x" path="res://Interface/Sprite/Particle/Glow1.png" id="2_l7btf"]
+
+[node name="Glow" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="GPUParticles2D" type="GPUParticles2D" parent="."]
+amount = 33
+process_material = ExtResource("1_76awc")
+texture = ExtResource("2_l7btf")
+lifetime = 10.0
+preprocess = 30.0
+randomness = 0.33
