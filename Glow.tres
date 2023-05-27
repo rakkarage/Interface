@@ -1,6 +1,6 @@
-[gd_resource type="ParticleProcessMaterial" load_steps=2 format=3 uid="uid://k3snelvdd5ay"]
+[gd_resource type="ParticleProcessMaterial" load_steps=2 format=3 uid="uid://bcae2hhfdn3r"]
 
-[ext_resource type="Texture2D" uid="uid://blj1ceemtdewk" path="res://Interface/GlowRamp.tres" id="1_vm03s"]
+[ext_resource type="Texture2D" uid="uid://ox1bc8rpb4ro" path="res://Interface/GlowRamp.tres" id="1_vm03s"]
 
 [resource]
 lifetime_randomness = 0.33
@@ -13,11 +13,8 @@ orbit_velocity_min = 0.0
 orbit_velocity_max = 0.0
 angle_min = -720.0
 angle_max = 720.0
-scale_min = 0.5
-scale_max = 1.5
+scale_max = 4.0
 color_ramp = ExtResource("1_vm03s")
 color_initial_ramp = ExtResource("1_vm03s")
-hue_variation_min = 0.1
-hue_variation_max = 0.22
 turbulence_enabled = true
 attractor_interaction_enabled = false
