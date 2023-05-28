@@ -1,9 +1,9 @@
 [gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://w7rxaxgnbnl3"]
 
-[ext_resource type="Texture2D" uid="uid://bhcxrgm64vp3q" path="res://Interface/Sprite/ButtonPress.png" id="1_ewrqu"]
+[ext_resource type="Texture2D" uid="uid://cb6dtme2vjc0o" path="res://Interface/Sprite/ButtonHover.png" id="1_acyb0"]
 
 [resource]
-texture = ExtResource("1_ewrqu")
+texture = ExtResource("1_acyb0")
 texture_margin_left = 16.0
 texture_margin_top = 13.0
 texture_margin_right = 16.0
