@@ -1,6 +1,7 @@
-[gd_resource type="Theme" load_steps=28 format=3 uid="uid://cka558yiv861g"]
+[gd_resource type="Theme" load_steps=29 format=3 uid="uid://cka558yiv861g"]
 
 [ext_resource type="StyleBox" uid="uid://r04uoejq72mj" path="res://Interface/Style/Tooltip.tres" id="1"]
+[ext_resource type="FontVariation" uid="uid://b1m42jigq0vxp" path="res://Interface/Font/Venice.tres" id="1_70pxg"]
 [ext_resource type="StyleBox" uid="uid://cj558a2mjfmhw" path="res://Interface/Style/Panel.tres" id="2"]
 [ext_resource type="StyleBox" uid="uid://cwmynhsu3blk4" path="res://Interface/Style/ButtonPress.tres" id="3"]
 [ext_resource type="StyleBox" uid="uid://nuc5m8csuj8q" path="res://Interface/Style/Button.tres" id="4"]
@@ -34,6 +35,7 @@ Button/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
 Button/colors/font_color_hover = Color(0.94, 0.94, 0.94, 1)
 Button/colors/font_color_pressed = Color(1, 1, 1, 1)
 Button/constants/hseparation = 2
+Button/fonts/font = ExtResource("1_70pxg")
 Button/styles/disabled = ExtResource("8")
 Button/styles/focus = ExtResource("10")
 Button/styles/hover = ExtResource("7")
@@ -46,6 +48,7 @@ CheckBox/colors/font_color_hover_pressed = Color(1, 1, 1, 1)
 CheckBox/colors/font_color_pressed = Color(1, 1, 1, 1)
 CheckBox/constants/check_vadjust = 0
 CheckBox/constants/hseparation = 4
+CheckBox/fonts/font = ExtResource("1_70pxg")
 CheckBox/icons/checked = ExtResource("22")
 CheckBox/icons/radio_checked = null
 CheckBox/icons/radio_unchecked = null
@@ -63,6 +66,7 @@ CheckButton/colors/font_color_hover_pressed = Color(1, 1, 1, 1)
 CheckButton/colors/font_color_pressed = Color(1, 1, 1, 1)
 CheckButton/constants/check_vadjust = 0
 CheckButton/constants/hseparation = 4
+CheckButton/fonts/font = ExtResource("1_70pxg")
 CheckButton/icons/off = ExtResource("24")
 CheckButton/icons/off_disabled = null
 CheckButton/icons/on = ExtResource("25")
