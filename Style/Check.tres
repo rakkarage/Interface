@@ -4,8 +4,8 @@
 
 [resource]
 texture = ExtResource("1_cp0fm")
-texture_margin_left = 16.0
-texture_margin_top = 13.0
-texture_margin_right = 16.0
-texture_margin_bottom = 19.0
+texture_margin_left = 11.0
+texture_margin_top = 7.0
+texture_margin_right = 11.0
+texture_margin_bottom = 15.0
 modulate_color = Color(0.623529, 0.690196, 1, 1)

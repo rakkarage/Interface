@@ -8,7 +8,7 @@
 [ext_resource type="StyleBox" uid="uid://dwsnrtyoou0cj" path="res://Interface/Style/ButtonHover.tres" id="7"]
 [ext_resource type="StyleBox" uid="uid://d3708px87bh5i" path="res://Interface/Style/ButtonDisable.tres" id="8"]
 [ext_resource type="StyleBox" uid="uid://co3sgs13g4mxy" path="res://Interface/Style/Tab.tres" id="9"]
-[ext_resource type="StyleBox" uid="uid://bww7lj86g4r5q" path="res://Interface/Style/ButtonFocus.tres" id="10"]
+[ext_resource type="StyleBox" uid="uid://bww7lj86g4r5q" path="res://Interface/Style/Focus.tres" id="10"]
 [ext_resource type="StyleBox" uid="uid://bpfjiqnf430rg" path="res://Interface/Style/InputDisable.tres" id="11"]
 [ext_resource type="Texture2D" uid="uid://dbh78gwvkpile" path="res://Interface/Sprite/ArrowNorth.png" id="12"]
 [ext_resource type="StyleBox" uid="uid://0twuq3nhj37h" path="res://Interface/Style/ScrollTrack.tres" id="13"]
