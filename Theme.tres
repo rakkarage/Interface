@@ -1,7 +1,7 @@
 [gd_resource type="Theme" load_steps=29 format=3 uid="uid://cka558yiv861g"]
 
 [ext_resource type="StyleBox" uid="uid://r04uoejq72mj" path="res://Interface/Style/Tooltip.tres" id="1"]
-[ext_resource type="FontVariation" uid="uid://b1m42jigq0vxp" path="res://Interface/Font/Venice.tres" id="1_70pxg"]
+[ext_resource type="FontVariation" uid="uid://bt5remx3x1xe" path="res://Interface/Font/VeniceOffset.tres" id="1_70pxg"]
 [ext_resource type="StyleBox" uid="uid://cj558a2mjfmhw" path="res://Interface/Style/Panel.tres" id="2"]
 [ext_resource type="StyleBox" uid="uid://cwmynhsu3blk4" path="res://Interface/Style/ButtonPress.tres" id="3"]
 [ext_resource type="StyleBox" uid="uid://nuc5m8csuj8q" path="res://Interface/Style/Button.tres" id="4"]
