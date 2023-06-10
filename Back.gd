@@ -1,15 +1,19 @@
 @tool
 extends Control
 
+var _parent : Control
+
 const _r := PI / 2.0
 
 func _ready() -> void:
 	get_parent().connect("resized", _onResized)
+	_parent = get_parent()
+	_parent.connect("resized", _onResized)
 	_onResized()
 
 func _onResized() -> void:
 	var tex := size
-	var win := get_viewport_rect().size
+	var win := _parent.size
 	if win.x > win.y:
 		rotation = _r
 		scale = Vector2(win.y / tex.x, win.x / tex.y)
