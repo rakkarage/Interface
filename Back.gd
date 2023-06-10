@@ -4,7 +4,7 @@ extends Control
 const _r := PI / 2.0
 
 func _ready() -> void:
-	get_node("..").connect("resized", _onResized)
+	get_parent().connect("resized", _onResized)
 	_onResized()
 
 func _onResized() -> void:
