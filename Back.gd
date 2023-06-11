@@ -6,7 +6,6 @@ var _parent : Control
 const _r := PI / 2.0
 
 func _ready() -> void:
-	get_parent().connect("resized", _onResized)
 	_parent = get_parent()
 	_parent.connect("resized", _onResized)
 	_onResized()
