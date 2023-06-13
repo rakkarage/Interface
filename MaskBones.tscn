@@ -1,0 +1,32 @@
+[gd_scene load_steps=5 format=3 uid="uid://dv8saonplwr1c"]
+
+[ext_resource type="Script" path="res://Interface/MaskTween.gd" id="1_tckga"]
+[ext_resource type="Shader" path="res://Interface/Mask.gdshader" id="2_ud47o"]
+[ext_resource type="Texture2D" uid="uid://0xv16hg8qk8h" path="res://Interface/Sprite/MaskBones.png" id="3_p7sda"]
+
+[sub_resource type="ShaderMaterial" id="1"]
+shader = ExtResource("2_ud47o")
+shader_parameter/color = Color(0, 0, 0, 0)
+shader_parameter/scale = 0.0
+shader_parameter/mask = ExtResource("3_p7sda")
+
+[node name="MaskBones" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("1_tckga")
+
+[node name="Mask" type="ColorRect" parent="."]
+material = SubResource("1")
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 1)

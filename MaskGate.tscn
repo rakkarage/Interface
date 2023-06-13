@@ -1,0 +1,32 @@
+[gd_scene load_steps=5 format=3 uid="uid://b2xdfyjb3ol2o"]
+
+[ext_resource type="Script" path="res://Interface/MaskTween.gd" id="1_mb7ap"]
+[ext_resource type="Shader" path="res://Interface/Mask.gdshader" id="1_pnh38"]
+[ext_resource type="Texture2D" uid="uid://dqves8j4iyty5" path="res://Interface/Sprite/MaskGate.png" id="2_2kj4a"]
+
+[sub_resource type="ShaderMaterial" id="1"]
+shader = ExtResource("1_pnh38")
+shader_parameter/color = Color(0, 0, 0, 0)
+shader_parameter/scale = 0.0
+shader_parameter/mask = ExtResource("2_2kj4a")
+
+[node name="MaskGate" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("1_mb7ap")
+
+[node name="Mask" type="ColorRect" parent="."]
+material = SubResource("1")
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 1)
