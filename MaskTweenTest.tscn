@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://hq0uhdpfxsfl"]
+
+[ext_resource type="PackedScene" uid="uid://cpwpn22g1oh61" path="res://Interface/Back.tscn" id="1_25og4"]
+[ext_resource type="PackedScene" uid="uid://b2xdfyjb3ol2o" path="res://Interface/MaskTween.tscn" id="1_v415s"]
+[ext_resource type="Script" path="res://Interface/MaskTweenTest.gd" id="3_fvafl"]
+
+[node name="MaskGate" instance=ExtResource("1_v415s")]
+
+[node name="Back" parent="." index="0" instance=ExtResource("1_25og4")]
+layout_mode = 1
+
+[node name="VBox" type="VBoxContainer" parent="." index="2"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("3_fvafl")
+
+[node name="In" type="Button" parent="VBox" index="0"]
+layout_mode = 2
+text = "In"
+
+[node name="Out" type="Button" parent="VBox" index="1"]
+layout_mode = 2
+text = "Out"

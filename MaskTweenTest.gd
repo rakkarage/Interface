@@ -1,4 +1,4 @@
-extends VBoxContainer
+extends Control
 
 @onready var _buttonIn: Button = $In
 @onready var _buttonOut: Button = $Out
