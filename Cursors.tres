@@ -149,6 +149,22 @@ region = Rect2(32, 0, 16, 16)
 atlas = ExtResource("12_ycuku")
 region = Rect2(48, 0, 16, 16)
 
+[sub_resource type="AtlasTexture" id="37"]
+atlas = ExtResource("15_ghfie")
+region = Rect2(0, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="38"]
+atlas = ExtResource("15_ghfie")
+region = Rect2(16, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="39"]
+atlas = ExtResource("15_ghfie")
+region = Rect2(32, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="40"]
+atlas = ExtResource("15_ghfie")
+region = Rect2(48, 0, 16, 16)
+
 [sub_resource type="AtlasTexture" id="25"]
 atlas = ExtResource("13_jygrt")
 region = Rect2(0, 0, 16, 16)
@@ -179,22 +195,6 @@ region = Rect2(32, 0, 16, 16)
 
 [sub_resource type="AtlasTexture" id="44"]
 atlas = ExtResource("14_c4sjp")
-region = Rect2(48, 0, 16, 16)
-
-[sub_resource type="AtlasTexture" id="37"]
-atlas = ExtResource("15_ghfie")
-region = Rect2(0, 0, 16, 16)
-
-[sub_resource type="AtlasTexture" id="38"]
-atlas = ExtResource("15_ghfie")
-region = Rect2(16, 0, 16, 16)
-
-[sub_resource type="AtlasTexture" id="39"]
-atlas = ExtResource("15_ghfie")
-region = Rect2(32, 0, 16, 16)
-
-[sub_resource type="AtlasTexture" id="40"]
-atlas = ExtResource("15_ghfie")
 region = Rect2(48, 0, 16, 16)
 
 [sub_resource type="AtlasTexture" id="5"]
@@ -398,6 +398,23 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
+"texture": SubResource("37")
+}, {
+"duration": 1.0,
+"texture": SubResource("38")
+}, {
+"duration": 1.0,
+"texture": SubResource("39")
+}, {
+"duration": 1.0,
+"texture": SubResource("40")
+}],
+"loop": true,
+"name": &"SizeV",
+"speed": 8.0
+}, {
+"frames": [{
+"duration": 1.0,
 "texture": SubResource("25")
 }, {
 "duration": 1.0,
@@ -428,23 +445,6 @@ animations = [{
 }],
 "loop": true,
 "name": &"SplitV",
-"speed": 8.0
-}, {
-"frames": [{
-"duration": 1.0,
-"texture": SubResource("37")
-}, {
-"duration": 1.0,
-"texture": SubResource("38")
-}, {
-"duration": 1.0,
-"texture": SubResource("39")
-}, {
-"duration": 1.0,
-"texture": SubResource("40")
-}],
-"loop": true,
-"name": &"SuzeV",
 "speed": 8.0
 }, {
 "frames": [{
