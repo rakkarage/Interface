@@ -1,9 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://cfvthl6ipvclo"]
+[gd_scene load_steps=2 format=3 uid="uid://cfvthl6ipvclo"]
 
-[ext_resource type="Material" uid="uid://pngx2bqmic5y" path="res://Interface/Additive.tres" id="1_pwg75"]
 [ext_resource type="SpriteFrames" uid="uid://buc6l7uae7wp3" path="res://Interface/Path.tres" id="1_w6sc0"]
 
 [node name="Path" type="AnimatedSprite2D"]
-material = ExtResource("1_pwg75")
 sprite_frames = ExtResource("1_w6sc0")
 autoplay = "default"
