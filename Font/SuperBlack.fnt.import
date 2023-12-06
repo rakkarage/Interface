@@ -14,3 +14,4 @@ dest_files=["res://.godot/imported/SuperBlack.fnt-14737647c2b2c1817855f1a24967cb
 
 fallbacks=[]
 compress=true
+scaling_mode=2

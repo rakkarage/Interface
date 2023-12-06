@@ -14,3 +14,4 @@ dest_files=["res://.godot/imported/Venice.fnt-3e95df79e8cc57a8ce18014cef6f21cf.f
 
 fallbacks=[]
 compress=true
+scaling_mode=2
