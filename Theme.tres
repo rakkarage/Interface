@@ -1,4 +1,4 @@
-[gd_resource type="Theme" load_steps=29 format=3 uid="uid://cka558yiv861g"]
+[gd_resource type="Theme" load_steps=27 format=3 uid="uid://cka558yiv861g"]
 
 [ext_resource type="StyleBox" uid="uid://r04uoejq72mj" path="res://Interface/Style/Tooltip.tres" id="1"]
 [ext_resource type="FontVariation" uid="uid://bt5remx3x1xe" path="res://Interface/Font/VeniceOffset.tres" id="1_70pxg"]
@@ -11,12 +11,12 @@
 [ext_resource type="StyleBox" uid="uid://co3sgs13g4mxy" path="res://Interface/Style/Tab.tres" id="9"]
 [ext_resource type="StyleBox" uid="uid://bww7lj86g4r5q" path="res://Interface/Style/Focus.tres" id="10"]
 [ext_resource type="StyleBox" uid="uid://bpfjiqnf430rg" path="res://Interface/Style/InputDisable.tres" id="11"]
-[ext_resource type="Texture2D" uid="uid://dbh78gwvkpile" path="res://Interface/Sprite/ArrowNorth.png" id="12"]
 [ext_resource type="StyleBox" uid="uid://0twuq3nhj37h" path="res://Interface/Style/ScrollTrack.tres" id="13"]
 [ext_resource type="StyleBox" uid="uid://3dkvo83xqhei" path="res://Interface/Style/ScrollProgress.tres" id="14"]
-[ext_resource type="Texture2D" uid="uid://bay3kb7jpgj5d" path="res://Interface/Sprite/ArrowSouth.png" id="15"]
 [ext_resource type="Texture2D" uid="uid://b1fc2nn0h7ipe" path="res://Interface/Sprite/ScrollThumb.png" id="16"]
+[ext_resource type="StyleBox" uid="uid://3dkvo83xqhei" path="res://Interface/Style/ScrollProgressHighlight.tres" id="16_6nd30"]
 [ext_resource type="Texture2D" uid="uid://ci4loqr1adm15" path="res://Interface/Sprite/TickNorth.png" id="17"]
+[ext_resource type="StyleBox" path="res://Interface/Style/ScrollProgressPressed.tres" id="17_2mvkt"]
 [ext_resource type="StyleBox" uid="uid://dbgdasm5b8ft5" path="res://Interface/Style/Check.tres" id="18"]
 [ext_resource type="StyleBox" uid="uid://c30c2baxdc4xo" path="res://Interface/Style/CheckDisable.tres" id="19"]
 [ext_resource type="StyleBox" uid="uid://dx6vmudhuqot8" path="res://Interface/Style/CheckPress.tres" id="20"]
@@ -25,8 +25,6 @@
 [ext_resource type="Texture2D" uid="uid://mm7kfos2ru5x" path="res://Interface/Sprite/No.png" id="23"]
 [ext_resource type="Texture2D" uid="uid://cm3gctoje4kfw" path="res://Interface/Sprite/Off.png" id="24"]
 [ext_resource type="Texture2D" uid="uid://hyhm61ydt3sd" path="res://Interface/Sprite/On.png" id="25"]
-[ext_resource type="Texture2D" uid="uid://bvpjfiua3xq7c" path="res://Interface/Sprite/ArrowWest.png" id="26"]
-[ext_resource type="Texture2D" uid="uid://j10cct6ej7qe" path="res://Interface/Sprite/ArrowEast.png" id="27"]
 [ext_resource type="Texture2D" uid="uid://cno0av34v1puq" path="res://Interface/Sprite/TickWest.png" id="28"]
 
 [resource]
@@ -77,15 +75,11 @@ CheckButton/styles/hover = ExtResource("21")
 CheckButton/styles/hover_pressed = ExtResource("20")
 CheckButton/styles/normal = ExtResource("18")
 CheckButton/styles/pressed = ExtResource("20")
-HScrollBar/icons/decrement = ExtResource("26")
-HScrollBar/icons/decrement_highlight = ExtResource("26")
-HScrollBar/icons/increment = ExtResource("27")
-HScrollBar/icons/increment_highlight = ExtResource("27")
 HScrollBar/styles/grabber = ExtResource("14")
-HScrollBar/styles/grabber_highlight = ExtResource("14")
-HScrollBar/styles/grabber_pressed = ExtResource("14")
+HScrollBar/styles/grabber_highlight = ExtResource("16_6nd30")
+HScrollBar/styles/grabber_pressed = ExtResource("17_2mvkt")
 HScrollBar/styles/scroll = ExtResource("13")
-HScrollBar/styles/scroll_focus = null
+HScrollBar/styles/scroll_focus = ExtResource("10")
 HSlider/icons/grabber = ExtResource("16")
 HSlider/icons/grabber_disabled = ExtResource("16")
 HSlider/icons/grabber_highlight = ExtResource("16")
@@ -219,15 +213,11 @@ Tree/styles/selected_focus = null
 Tree/styles/title_button_hover = null
 Tree/styles/title_button_normal = null
 Tree/styles/title_button_pressed = null
-VScrollBar/icons/decrement = ExtResource("12")
-VScrollBar/icons/decrement_highlight = ExtResource("12")
-VScrollBar/icons/increment = ExtResource("15")
-VScrollBar/icons/increment_highlight = ExtResource("15")
 VScrollBar/styles/grabber = ExtResource("14")
-VScrollBar/styles/grabber_highlight = ExtResource("14")
-VScrollBar/styles/grabber_pressed = ExtResource("14")
+VScrollBar/styles/grabber_highlight = ExtResource("16_6nd30")
+VScrollBar/styles/grabber_pressed = ExtResource("17_2mvkt")
 VScrollBar/styles/scroll = ExtResource("13")
-VScrollBar/styles/scroll_focus = null
+VScrollBar/styles/scroll_focus = ExtResource("10")
 VSlider/icons/grabber = ExtResource("16")
 VSlider/icons/grabber_disabled = ExtResource("16")
 VSlider/icons/grabber_highlight = ExtResource("16")
