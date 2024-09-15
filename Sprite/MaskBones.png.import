@@ -3,26 +3,25 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0xv16hg8qk8h"
-path.s3tc="res://.godot/imported/MaskBones.png-1c374544ed040544d64a8e02d8f06b02.s3tc.ctex"
+path="res://.godot/imported/MaskBones.png-1c374544ed040544d64a8e02d8f06b02.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
 source_file="res://Interface/Sprite/MaskBones.png"
-dest_files=["res://.godot/imported/MaskBones.png-1c374544ed040544d64a8e02d8f06b02.s3tc.ctex"]
+dest_files=["res://.godot/imported/MaskBones.png-1c374544ed040544d64a8e02d8f06b02.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
