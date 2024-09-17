@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://vnyrm60vceqr"]
 
-[ext_resource type="Material" uid="uid://bcae2hhfdn3r" path="res://Interface/Glow.tres" id="1_76awc"]
-[ext_resource type="Texture2D" uid="uid://dc5wn6itutwum" path="res://Interface/Sprite/Particle/Glow0.png" id="2_20tyo"]
+[ext_resource type="Material" uid="uid://bcae2hhfdn3r" path="res://addons/Interface/Glow.tres" id="1_76awc"]
+[ext_resource type="Texture2D" uid="uid://dc5wn6itutwum" path="res://addons/Interface/Sprite/Particle/Glow0.png" id="2_20tyo"]
 
 [node name="Glow" type="Control"]
 layout_mode = 3
