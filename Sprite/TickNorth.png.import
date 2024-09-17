@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ci4loqr1adm15"
-path="res://.godot/imported/TickNorth.png-b5d00a845a1916589260e407c3490bfd.ctex"
+path="res://.godot/imported/TickNorth.png-7f3eb36a52985e891ce5887d210004cd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/TickNorth.png"
-dest_files=["res://.godot/imported/TickNorth.png-b5d00a845a1916589260e407c3490bfd.ctex"]
+source_file="res://addons/Interface/Sprite/TickNorth.png"
+dest_files=["res://.godot/imported/TickNorth.png-7f3eb36a52985e891ce5887d210004cd.ctex"]
 
 [params]
 

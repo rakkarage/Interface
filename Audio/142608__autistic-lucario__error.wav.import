@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://qfe4tvfgilj2"
-path="res://.godot/imported/142608__autistic-lucario__error.wav-b8f70b1994cc3d4119576b2d52e00384.sample"
+path="res://.godot/imported/142608__autistic-lucario__error.wav-6bad224bd2bbc2a64dd8b069593e680c.sample"
 
 [deps]
 
-source_file="res://Interface/Audio/142608__autistic-lucario__error.wav"
-dest_files=["res://.godot/imported/142608__autistic-lucario__error.wav-b8f70b1994cc3d4119576b2d52e00384.sample"]
+source_file="res://addons/Interface/Audio/142608__autistic-lucario__error.wav"
+dest_files=["res://.godot/imported/142608__autistic-lucario__error.wav-6bad224bd2bbc2a64dd8b069593e680c.sample"]
 
 [params]
 

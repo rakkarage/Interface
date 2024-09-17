@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0xv16hg8qk8h"
-path="res://.godot/imported/MaskBones.png-1c374544ed040544d64a8e02d8f06b02.ctex"
+path="res://.godot/imported/MaskBones.png-f0c4eec61deea770105e9238da4e3e67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/MaskBones.png"
-dest_files=["res://.godot/imported/MaskBones.png-1c374544ed040544d64a8e02d8f06b02.ctex"]
+source_file="res://addons/Interface/Sprite/MaskBones.png"
+dest_files=["res://.godot/imported/MaskBones.png-f0c4eec61deea770105e9238da4e3e67.ctex"]
 
 [params]
 

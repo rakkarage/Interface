@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv1c7vkj4u8sn"
-path="res://.godot/imported/Caret.png-5473b2d41b1078821e16ce51141445ab.ctex"
+path="res://.godot/imported/Caret.png-d11a27a04c4dfb1f80ae12c001a61433.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/Cursor/Caret.png"
-dest_files=["res://.godot/imported/Caret.png-5473b2d41b1078821e16ce51141445ab.ctex"]
+source_file="res://addons/Interface/Sprite/Cursor/Caret.png"
+dest_files=["res://.godot/imported/Caret.png-d11a27a04c4dfb1f80ae12c001a61433.ctex"]
 
 [params]
 

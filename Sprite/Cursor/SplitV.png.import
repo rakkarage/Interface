@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlerhm3g4vfci"
-path="res://.godot/imported/SplitV.png-8a181eb1459f27f1f25b6243e5961d2b.ctex"
+path="res://.godot/imported/SplitV.png-43e21ee1a016fe20ccab4323c0592eda.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/Cursor/SplitV.png"
-dest_files=["res://.godot/imported/SplitV.png-8a181eb1459f27f1f25b6243e5961d2b.ctex"]
+source_file="res://addons/Interface/Sprite/Cursor/SplitV.png"
+dest_files=["res://.godot/imported/SplitV.png-43e21ee1a016fe20ccab4323c0592eda.ctex"]
 
 [params]
 

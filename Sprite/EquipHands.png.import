@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfd5jvv07q8kp"
-path="res://.godot/imported/EquipHands.png-92b18fe3750042050ff3d8b3612f04aa.ctex"
+path="res://.godot/imported/EquipHands.png-e329e6d6b055a084cc205f5a276b965f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/EquipHands.png"
-dest_files=["res://.godot/imported/EquipHands.png-92b18fe3750042050ff3d8b3612f04aa.ctex"]
+source_file="res://addons/Interface/Sprite/EquipHands.png"
+dest_files=["res://.godot/imported/EquipHands.png-e329e6d6b055a084cc205f5a276b965f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxj30a7el8nlf"
-path="res://.godot/imported/StatDefense.png-c7db9973e8118dad73a06948791cec3a.ctex"
+path="res://.godot/imported/StatDefense.png-c89dcb6b1d05fdc700ca2e247011b520.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/StatDefense.png"
-dest_files=["res://.godot/imported/StatDefense.png-c7db9973e8118dad73a06948791cec3a.ctex"]
+source_file="res://addons/Interface/Sprite/StatDefense.png"
+dest_files=["res://.godot/imported/StatDefense.png-c89dcb6b1d05fdc700ca2e247011b520.ctex"]
 
 [params]
 

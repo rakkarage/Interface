@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dir60qvo3pom2"
-path="res://.godot/imported/257357__brnck__button-click.wav-6628a7e6af170c5d3a242f70500908e9.sample"
+path="res://.godot/imported/257357__brnck__button-click.wav-12cca88793b9f7a634665cc6e8f084b8.sample"
 
 [deps]
 
-source_file="res://Interface/Audio/257357__brnck__button-click.wav"
-dest_files=["res://.godot/imported/257357__brnck__button-click.wav-6628a7e6af170c5d3a242f70500908e9.sample"]
+source_file="res://addons/Interface/Audio/257357__brnck__button-click.wav"
+dest_files=["res://.godot/imported/257357__brnck__button-click.wav-12cca88793b9f7a634665cc6e8f084b8.sample"]
 
 [params]
 

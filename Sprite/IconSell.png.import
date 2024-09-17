@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mxus7s2jvfdr"
-path="res://.godot/imported/IconSell.png-c2cdc2139e81c84c4bb5bba7b1f53c3f.ctex"
+path="res://.godot/imported/IconSell.png-1922fe0f9dd8566f7704828176e6daa0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/IconSell.png"
-dest_files=["res://.godot/imported/IconSell.png-c2cdc2139e81c84c4bb5bba7b1f53c3f.ctex"]
+source_file="res://addons/Interface/Sprite/IconSell.png"
+dest_files=["res://.godot/imported/IconSell.png-1922fe0f9dd8566f7704828176e6daa0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bohq4qsrtbkgq"
-path="res://.godot/imported/IconRefresh.png-0196abd4cef0a6b0ba7e3777b66026a8.ctex"
+path="res://.godot/imported/IconRefresh.png-8e320be73d79cb304685c5ff4e422f87.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/IconRefresh.png"
-dest_files=["res://.godot/imported/IconRefresh.png-0196abd4cef0a6b0ba7e3777b66026a8.ctex"]
+source_file="res://addons/Interface/Sprite/IconRefresh.png"
+dest_files=["res://.godot/imported/IconRefresh.png-8e320be73d79cb304685c5ff4e422f87.ctex"]
 
 [params]
 

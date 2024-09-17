@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dbybe48g7l45x"
-path="res://.godot/imported/388046__paep3nguin__beep-up.wav-277430930f57a99e97dfb85ac8651de9.sample"
+path="res://.godot/imported/388046__paep3nguin__beep-up.wav-9d928bb1060256ff515ec2133d730cb4.sample"
 
 [deps]
 
-source_file="res://Interface/Audio/388046__paep3nguin__beep-up.wav"
-dest_files=["res://.godot/imported/388046__paep3nguin__beep-up.wav-277430930f57a99e97dfb85ac8651de9.sample"]
+source_file="res://addons/Interface/Audio/388046__paep3nguin__beep-up.wav"
+dest_files=["res://.godot/imported/388046__paep3nguin__beep-up.wav-9d928bb1060256ff515ec2133d730cb4.sample"]
 
 [params]
 

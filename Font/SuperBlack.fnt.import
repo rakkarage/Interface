@@ -3,12 +3,12 @@
 importer="font_data_bmfont"
 type="FontFile"
 uid="uid://bn2nxiytfv00k"
-path="res://.godot/imported/SuperBlack.fnt-14737647c2b2c1817855f1a24967cbaf.fontdata"
+path="res://.godot/imported/SuperBlack.fnt-fb5292512ae4090acc321551af9e3792.fontdata"
 
 [deps]
 
-source_file="res://Interface/Font/SuperBlack.fnt"
-dest_files=["res://.godot/imported/SuperBlack.fnt-14737647c2b2c1817855f1a24967cbaf.fontdata"]
+source_file="res://addons/Interface/Font/SuperBlack.fnt"
+dest_files=["res://.godot/imported/SuperBlack.fnt-fb5292512ae4090acc321551af9e3792.fontdata"]
 
 [params]
 

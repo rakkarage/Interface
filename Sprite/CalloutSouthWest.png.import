@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cduhw7dq0bta0"
-path="res://.godot/imported/CalloutSouthWest.png-43fa28881bae4643ec2bcb2776478db8.ctex"
+path="res://.godot/imported/CalloutSouthWest.png-f15035a756c4c1a8d8403eb4aa66021a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/CalloutSouthWest.png"
-dest_files=["res://.godot/imported/CalloutSouthWest.png-43fa28881bae4643ec2bcb2776478db8.ctex"]
+source_file="res://addons/Interface/Sprite/CalloutSouthWest.png"
+dest_files=["res://.godot/imported/CalloutSouthWest.png-f15035a756c4c1a8d8403eb4aa66021a.ctex"]
 
 [params]
 

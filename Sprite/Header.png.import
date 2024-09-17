@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk48dhgctkos"
-path="res://.godot/imported/Header.png-74b22d5d89a038b5a6038b709a5180bc.ctex"
+path="res://.godot/imported/Header.png-8c3a5756f51a8636d7e682b25ce9e859.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/Header.png"
-dest_files=["res://.godot/imported/Header.png-74b22d5d89a038b5a6038b709a5180bc.ctex"]
+source_file="res://addons/Interface/Sprite/Header.png"
+dest_files=["res://.godot/imported/Header.png-8c3a5756f51a8636d7e682b25ce9e859.ctex"]
 
 [params]
 

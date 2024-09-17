@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bikmay2ddi47q"
-path="res://.godot/imported/Tab0.png-34c6a6bb3bece7f146d68dbcf5835cb6.ctex"
+path="res://.godot/imported/Tab0.png-ed79ebdde0a2bc9c014487fac58e103e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/Tab0.png"
-dest_files=["res://.godot/imported/Tab0.png-34c6a6bb3bece7f146d68dbcf5835cb6.ctex"]
+source_file="res://addons/Interface/Sprite/Tab0.png"
+dest_files=["res://.godot/imported/Tab0.png-ed79ebdde0a2bc9c014487fac58e103e.ctex"]
 
 [params]
 

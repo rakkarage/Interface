@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8uvcnkmon2oh"
-path="res://.godot/imported/IconMusicOff.png-37b3fc423bc75027adfa46b218c044f1.ctex"
+path="res://.godot/imported/IconMusicOff.png-bd030ba927b7a82548f86dee256852bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/IconMusicOff.png"
-dest_files=["res://.godot/imported/IconMusicOff.png-37b3fc423bc75027adfa46b218c044f1.ctex"]
+source_file="res://addons/Interface/Sprite/IconMusicOff.png"
+dest_files=["res://.godot/imported/IconMusicOff.png-bd030ba927b7a82548f86dee256852bf.ctex"]
 
 [params]
 

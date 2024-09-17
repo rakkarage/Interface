@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://domcq1di17k88"
-path="res://.godot/imported/TooltipEast.png-1cf2c4ebaba13a945fa925acb089d81e.ctex"
+path="res://.godot/imported/TooltipEast.png-6b7625b5ee857bacc90e73845eeac8bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/TooltipEast.png"
-dest_files=["res://.godot/imported/TooltipEast.png-1cf2c4ebaba13a945fa925acb089d81e.ctex"]
+source_file="res://addons/Interface/Sprite/TooltipEast.png"
+dest_files=["res://.godot/imported/TooltipEast.png-6b7625b5ee857bacc90e73845eeac8bd.ctex"]
 
 [params]
 

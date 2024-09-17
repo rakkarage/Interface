@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b3ejq7hp1s10c"
-path="res://.godot/imported/170141__timgormly__8-bit-bump.wav-478bb1c6f6e94d03fba8e1c97b99b0f3.sample"
+path="res://.godot/imported/170141__timgormly__8-bit-bump.wav-bc5c6f928abd44a23d6ea1dddd8d83cf.sample"
 
 [deps]
 
-source_file="res://Interface/Audio/170141__timgormly__8-bit-bump.wav"
-dest_files=["res://.godot/imported/170141__timgormly__8-bit-bump.wav-478bb1c6f6e94d03fba8e1c97b99b0f3.sample"]
+source_file="res://addons/Interface/Audio/170141__timgormly__8-bit-bump.wav"
+dest_files=["res://.godot/imported/170141__timgormly__8-bit-bump.wav-bc5c6f928abd44a23d6ea1dddd8d83cf.sample"]
 
 [params]
 

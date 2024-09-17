@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnscjalplyoyg"
-path="res://.godot/imported/CalloutNorthWest.png-bef1cf74949698140e6e2f6f566817b8.ctex"
+path="res://.godot/imported/CalloutNorthWest.png-a3f7cab522533352f14e239ba9a2bad9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/CalloutNorthWest.png"
-dest_files=["res://.godot/imported/CalloutNorthWest.png-bef1cf74949698140e6e2f6f566817b8.ctex"]
+source_file="res://addons/Interface/Sprite/CalloutNorthWest.png"
+dest_files=["res://.godot/imported/CalloutNorthWest.png-a3f7cab522533352f14e239ba9a2bad9.ctex"]
 
 [params]
 

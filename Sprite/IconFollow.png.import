@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n1aym7ctivjq"
-path="res://.godot/imported/IconFollow.png-0e1ee70a7943a2ae5a21e43648c00339.ctex"
+path="res://.godot/imported/IconFollow.png-eb1a68a8a4b5c2092749871ba0c1a3ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/IconFollow.png"
-dest_files=["res://.godot/imported/IconFollow.png-0e1ee70a7943a2ae5a21e43648c00339.ctex"]
+source_file="res://addons/Interface/Sprite/IconFollow.png"
+dest_files=["res://.godot/imported/IconFollow.png-eb1a68a8a4b5c2092749871ba0c1a3ff.ctex"]
 
 [params]
 

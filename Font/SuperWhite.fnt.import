@@ -3,12 +3,12 @@
 importer="font_data_bmfont"
 type="FontFile"
 uid="uid://vxvgk6iccvf3"
-path="res://.godot/imported/SuperWhite.fnt-0c008118f3214814837a2bebfce701ca.fontdata"
+path="res://.godot/imported/SuperWhite.fnt-e77f00bfd061c0982531ee475b9767a2.fontdata"
 
 [deps]
 
-source_file="res://Interface/Font/SuperWhite.fnt"
-dest_files=["res://.godot/imported/SuperWhite.fnt-0c008118f3214814837a2bebfce701ca.fontdata"]
+source_file="res://addons/Interface/Font/SuperWhite.fnt"
+dest_files=["res://.godot/imported/SuperWhite.fnt-e77f00bfd061c0982531ee475b9767a2.fontdata"]
 
 [params]
 

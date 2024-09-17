@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cty56dk8casad"
-path="res://.godot/imported/EquipLegs.png-46aa8d3bacb285c09b68067eedec4051.ctex"
+path="res://.godot/imported/EquipLegs.png-b7cd195dff0ea645e80c60b1890c6164.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/EquipLegs.png"
-dest_files=["res://.godot/imported/EquipLegs.png-46aa8d3bacb285c09b68067eedec4051.ctex"]
+source_file="res://addons/Interface/Sprite/EquipLegs.png"
+dest_files=["res://.godot/imported/EquipLegs.png-b7cd195dff0ea645e80c60b1890c6164.ctex"]
 
 [params]
 

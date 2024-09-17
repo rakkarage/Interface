@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bay3kb7jpgj5d"
-path="res://.godot/imported/ArrowSouth.png-361f7364135ec5d13e6ceece5fa8270a.ctex"
+path="res://.godot/imported/ArrowSouth.png-488719a5960f4a8f2a093b5475485800.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/ArrowSouth.png"
-dest_files=["res://.godot/imported/ArrowSouth.png-361f7364135ec5d13e6ceece5fa8270a.ctex"]
+source_file="res://addons/Interface/Sprite/ArrowSouth.png"
+dest_files=["res://.godot/imported/ArrowSouth.png-488719a5960f4a8f2a093b5475485800.ctex"]
 
 [params]
 

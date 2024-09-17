@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cp7wap8df2o7x"
-path="res://.godot/imported/Maze.png-676d33b2e145e9c9b5d30cb98a6fb924.ctex"
+path="res://.godot/imported/Maze.png-322188e33cdbe5f18d748cf50ca11a84.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/Maze.png"
-dest_files=["res://.godot/imported/Maze.png-676d33b2e145e9c9b5d30cb98a6fb924.ctex"]
+source_file="res://addons/Interface/Sprite/Maze.png"
+dest_files=["res://.godot/imported/Maze.png-322188e33cdbe5f18d748cf50ca11a84.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0hsddtp7qrr1"
-path="res://.godot/imported/ScoreAchievement.png-24ad8d7420c0b2b1ab2c139bd5db34f9.ctex"
+path="res://.godot/imported/ScoreAchievement.png-1d60461f5bfe5fc8531216e23b75f990.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interface/Sprite/ScoreAchievement.png"
-dest_files=["res://.godot/imported/ScoreAchievement.png-24ad8d7420c0b2b1ab2c139bd5db34f9.ctex"]
+source_file="res://addons/Interface/Sprite/ScoreAchievement.png"
+dest_files=["res://.godot/imported/ScoreAchievement.png-1d60461f5bfe5fc8531216e23b75f990.ctex"]
 
 [params]
 
