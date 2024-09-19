@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://dplcfrlu5as7j"]
 
-[ext_resource type="Shader" path="res://Interface/Mask.gdshader" id="2_ld45x"]
-[ext_resource type="Texture2D" uid="uid://dqves8j4iyty5" path="res://Interface/Sprite/MaskGate.png" id="3_iqf8b"]
+[ext_resource type="Shader" path="res://addons/Interface/Mask.gdshader" id="2_ld45x"]
+[ext_resource type="Texture2D" uid="uid://dqves8j4iyty5" path="res://addons/Interface/Sprite/MaskGate.png" id="3_iqf8b"]
 
 [sub_resource type="ShaderMaterial" id="1"]
 shader = ExtResource("2_ld45x")

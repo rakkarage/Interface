@@ -1,8 +1,8 @@
 [gd_scene load_steps=4 format=3 uid="uid://hq0uhdpfxsfl"]
 
-[ext_resource type="PackedScene" uid="uid://cpwpn22g1oh61" path="res://Interface/Back.tscn" id="1_25og4"]
-[ext_resource type="PackedScene" uid="uid://b2xdfyjb3ol2o" path="res://Interface/MaskTween.tscn" id="1_v415s"]
-[ext_resource type="Script" path="res://Interface/MaskTweenTest.gd" id="3_fvafl"]
+[ext_resource type="PackedScene" uid="uid://cpwpn22g1oh61" path="res://addons/Interface/Back.tscn" id="1_25og4"]
+[ext_resource type="PackedScene" uid="uid://b2xdfyjb3ol2o" path="res://addons/Interface/MaskTween.tscn" id="1_v415s"]
+[ext_resource type="Script" path="res://addons/Interface/MaskTweenTest.gd" id="3_fvafl"]
 
 [node name="MaskGate" instance=ExtResource("1_v415s")]
 

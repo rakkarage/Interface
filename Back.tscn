@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://cpwpn22g1oh61"]
 
-[ext_resource type="Texture2D" uid="uid://dfu1o1nk0x3lx" path="res://Interface/Sprite/Back.png" id="1"]
-[ext_resource type="Script" path="res://Interface/Back.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://dfu1o1nk0x3lx" path="res://addons/Interface/Sprite/Back.png" id="1"]
+[ext_resource type="Script" path="res://addons/Interface/Back.gd" id="2"]
 
 [node name="Back" type="Control"]
 layout_mode = 3
