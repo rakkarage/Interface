@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://c0gglcpbg3xyp"]
 
-[ext_resource type="SpriteFrames" uid="uid://wcrtb1w0rx23" path="res://Interface/TargetBack.tres" id="1_en3s2"]
-[ext_resource type="SpriteFrames" uid="uid://dwlgoce02im4a" path="res://Interface/TargetFore.tres" id="2_d6rml"]
+[ext_resource type="SpriteFrames" uid="uid://wcrtb1w0rx23" path="res://addons/Interface/TargetBack.tres" id="1_en3s2"]
+[ext_resource type="SpriteFrames" uid="uid://dwlgoce02im4a" path="res://addons/Interface/TargetFore.tres" id="2_d6rml"]
 
 [node name="Target" type="Node2D"]
 
