@@ -1,6 +1,6 @@
 [gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://dr3uqk85tasgn"]
 
-[ext_resource type="Texture2D" uid="uid://b7o71b1u0jttv" path="res://Interface/Sprite/Stone.png" id="1_hukr0"]
+[ext_resource type="Texture2D" uid="uid://b7o71b1u0jttv" path="res://addons/Interface/Sprite/Stone.png" id="1_hukr0"]
 
 [resource]
 content_margin_left = 8.0

@@ -1,6 +1,6 @@
 [gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://0twuq3nhj37h"]
 
-[ext_resource type="Texture2D" uid="uid://c34pwsn2cf6wf" path="res://Interface/Sprite/ScrollTrack.png" id="1_1ygev"]
+[ext_resource type="Texture2D" uid="uid://c34pwsn2cf6wf" path="res://addons/Interface/Sprite/ScrollTrack.png" id="1_1ygev"]
 
 [resource]
 texture = ExtResource("1_1ygev")

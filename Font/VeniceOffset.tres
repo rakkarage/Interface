@@ -1,6 +1,6 @@
 [gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://bt5remx3x1xe"]
 
-[ext_resource type="FontFile" uid="uid://bafxu0ve0uy3c" path="res://Interface/Font/Venice.fnt" id="1_6snkw"]
+[ext_resource type="FontFile" uid="uid://bafxu0ve0uy3c" path="res://addons/Interface/Font/Venice.fnt" id="1_6snkw"]
 
 [resource]
 base_font = ExtResource("1_6snkw")

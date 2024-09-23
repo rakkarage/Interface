@@ -1,6 +1,6 @@
 [gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://b8w5vvh432ki1"]
 
-[ext_resource type="FontFile" uid="uid://vxvgk6iccvf3" path="res://Interface/Font/SuperWhite.fnt" id="1_jn6mg"]
+[ext_resource type="FontFile" uid="uid://vxvgk6iccvf3" path="res://addons/Interface/Font/SuperWhite.fnt" id="1_jn6mg"]
 
 [resource]
 base_font = ExtResource("1_jn6mg")

@@ -1,6 +1,6 @@
 [gd_resource type="AudioStreamRandomizer" load_steps=2 format=3 uid="uid://x4om0qpl51fd"]
 
-[ext_resource type="AudioStream" uid="uid://dbybe48g7l45x" path="res://Interface/Audio/388046__paep3nguin__beep-up.wav" id="1_8plus"]
+[ext_resource type="AudioStream" uid="uid://dbybe48g7l45x" path="res://addons/Interface/Audio/388046__paep3nguin__beep-up.wav" id="1_8plus"]
 
 [resource]
 streams_count = 1

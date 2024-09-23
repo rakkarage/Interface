@@ -1,6 +1,6 @@
 [gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://dbgdasm5b8ft5"]
 
-[ext_resource type="Texture2D" uid="uid://c8k2bp7ksv744" path="res://Interface/Sprite/Button.png" id="1_cp0fm"]
+[ext_resource type="Texture2D" uid="uid://c8k2bp7ksv744" path="res://addons/Interface/Sprite/Button.png" id="1_cp0fm"]
 
 [resource]
 texture = ExtResource("1_cp0fm")

@@ -1,6 +1,6 @@
 [gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://d3gjdh8fueirh"]
 
-[ext_resource type="FontFile" uid="uid://bn2nxiytfv00k" path="res://Interface/Font/SuperBlack.fnt" id="1_0ij4d"]
+[ext_resource type="FontFile" uid="uid://bn2nxiytfv00k" path="res://addons/Interface/Font/SuperBlack.fnt" id="1_0ij4d"]
 
 [resource]
 base_font = ExtResource("1_0ij4d")

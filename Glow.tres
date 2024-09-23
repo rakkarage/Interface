@@ -1,6 +1,6 @@
 [gd_resource type="ParticleProcessMaterial" load_steps=2 format=3 uid="uid://bcae2hhfdn3r"]
 
-[ext_resource type="Texture2D" uid="uid://ox1bc8rpb4ro" path="res://Interface/GlowRamp.tres" id="1_vm03s"]
+[ext_resource type="Texture2D" uid="uid://ox1bc8rpb4ro" path="res://addons/Interface/GlowRamp.tres" id="1_vm03s"]
 
 [resource]
 lifetime_randomness = 0.33
