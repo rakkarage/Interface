@@ -14,4 +14,4 @@ dest_files=["res://.godot/imported/SuperWhite.fnt-e77f00bfd061c0982531ee475b9767
 
 fallbacks=[]
 compress=true
-scaling_mode=2
+scaling_mode=1
