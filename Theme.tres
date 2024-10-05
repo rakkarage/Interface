@@ -1,31 +1,38 @@
-[gd_resource type="Theme" load_steps=27 format=3 uid="uid://cka558yiv861g"]
+[gd_resource type="Theme" load_steps=34 format=3 uid="uid://r85ynmhkykon"]
 
-[ext_resource type="StyleBox" uid="uid://r04uoejq72mj" path="res://addons/Interface/Style/Tooltip.tres" id="1"]
-[ext_resource type="FontVariation" uid="uid://bt5remx3x1xe" path="res://addons/Interface/Font/VeniceOffset.tres" id="1_70pxg"]
-[ext_resource type="StyleBox" uid="uid://cj558a2mjfmhw" path="res://addons/Interface/Style/Panel.tres" id="2"]
-[ext_resource type="StyleBox" uid="uid://cwmynhsu3blk4" path="res://addons/Interface/Style/ButtonPress.tres" id="3"]
-[ext_resource type="StyleBox" uid="uid://nuc5m8csuj8q" path="res://addons/Interface/Style/Button.tres" id="4"]
-[ext_resource type="StyleBox" uid="uid://dsidemjqg40ba" path="res://addons/Interface/Style/Input.tres" id="6"]
-[ext_resource type="StyleBox" uid="uid://dwsnrtyoou0cj" path="res://addons/Interface/Style/ButtonHover.tres" id="7"]
-[ext_resource type="StyleBox" uid="uid://d3708px87bh5i" path="res://addons/Interface/Style/ButtonDisable.tres" id="8"]
-[ext_resource type="StyleBox" uid="uid://co3sgs13g4mxy" path="res://addons/Interface/Style/Tab.tres" id="9"]
-[ext_resource type="StyleBox" uid="uid://bww7lj86g4r5q" path="res://addons/Interface/Style/Focus.tres" id="10"]
-[ext_resource type="StyleBox" uid="uid://bpfjiqnf430rg" path="res://addons/Interface/Style/InputDisable.tres" id="11"]
-[ext_resource type="StyleBox" uid="uid://0twuq3nhj37h" path="res://addons/Interface/Style/ScrollTrack.tres" id="13"]
-[ext_resource type="StyleBox" uid="uid://3dkvo83xqhei" path="res://addons/Interface/Style/ScrollProgressHighlight.tres" id="14"]
-[ext_resource type="Texture2D" uid="uid://b1fc2nn0h7ipe" path="res://addons/Interface/Sprite/ScrollThumb.png" id="16"]
-[ext_resource type="StyleBox" uid="uid://3dkvo83xqhei" path="res://addons/Interface/Style/ScrollProgressHighlight.tres" id="16_6nd30"]
-[ext_resource type="Texture2D" uid="uid://ci4loqr1adm15" path="res://addons/Interface/Sprite/TickNorth.png" id="17"]
-[ext_resource type="StyleBox" uid="uid://r041aw3wtdl3" path="res://addons/Interface/Style/ScrollProgressPressed.tres" id="17_2mvkt"]
-[ext_resource type="StyleBox" uid="uid://dbgdasm5b8ft5" path="res://addons/Interface/Style/Check.tres" id="18"]
-[ext_resource type="StyleBox" uid="uid://c30c2baxdc4xo" path="res://addons/Interface/Style/CheckDisable.tres" id="19"]
-[ext_resource type="StyleBox" uid="uid://dx6vmudhuqot8" path="res://addons/Interface/Style/CheckPress.tres" id="20"]
-[ext_resource type="StyleBox" uid="uid://w7rxaxgnbnl3" path="res://addons/Interface/Style/CheckHover.tres" id="21"]
-[ext_resource type="Texture2D" uid="uid://tx27226cytf1" path="res://addons/Interface/Sprite/Yes.png" id="22"]
-[ext_resource type="Texture2D" uid="uid://mm7kfos2ru5x" path="res://addons/Interface/Sprite/No.png" id="23"]
-[ext_resource type="Texture2D" uid="uid://cm3gctoje4kfw" path="res://addons/Interface/Sprite/Off.png" id="24"]
-[ext_resource type="Texture2D" uid="uid://hyhm61ydt3sd" path="res://addons/Interface/Sprite/On.png" id="25"]
-[ext_resource type="Texture2D" uid="uid://cno0av34v1puq" path="res://addons/Interface/Sprite/TickWest.png" id="28"]
+[ext_resource type="FontVariation" uid="uid://bt5remx3x1xe" path="res://addons/Interface/Font/VeniceOffset.tres" id="1_832hi"]
+[ext_resource type="StyleBox" uid="uid://d3708px87bh5i" path="res://addons/Interface/Style/ButtonDisable.tres" id="2_qn603"]
+[ext_resource type="StyleBox" uid="uid://bww7lj86g4r5q" path="res://addons/Interface/Style/Focus.tres" id="3_12k6t"]
+[ext_resource type="StyleBox" uid="uid://dwsnrtyoou0cj" path="res://addons/Interface/Style/ButtonHover.tres" id="4_ce7fa"]
+[ext_resource type="StyleBox" uid="uid://nuc5m8csuj8q" path="res://addons/Interface/Style/Button.tres" id="5_g70tn"]
+[ext_resource type="StyleBox" uid="uid://cwmynhsu3blk4" path="res://addons/Interface/Style/ButtonPress.tres" id="6_nmh4g"]
+[ext_resource type="Texture2D" uid="uid://tx27226cytf1" path="res://addons/Interface/Sprite/Yes.png" id="7_lvh8k"]
+[ext_resource type="Texture2D" uid="uid://mm7kfos2ru5x" path="res://addons/Interface/Sprite/No.png" id="8_0cmq5"]
+[ext_resource type="StyleBox" uid="uid://c30c2baxdc4xo" path="res://addons/Interface/Style/CheckDisable.tres" id="9_vi2tx"]
+[ext_resource type="StyleBox" uid="uid://w7rxaxgnbnl3" path="res://addons/Interface/Style/CheckHover.tres" id="10_es6cs"]
+[ext_resource type="StyleBox" uid="uid://dx6vmudhuqot8" path="res://addons/Interface/Style/CheckPress.tres" id="11_k0yak"]
+[ext_resource type="StyleBox" uid="uid://dbgdasm5b8ft5" path="res://addons/Interface/Style/Check.tres" id="12_t2w0c"]
+[ext_resource type="Texture2D" uid="uid://cm3gctoje4kfw" path="res://addons/Interface/Sprite/Off.png" id="13_75206"]
+[ext_resource type="Texture2D" uid="uid://hyhm61ydt3sd" path="res://addons/Interface/Sprite/On.png" id="14_6cxxb"]
+[ext_resource type="StyleBox" uid="uid://b40wnea47d0i" path="res://addons/Interface/Style/HGrabber.tres" id="15_l4m77"]
+[ext_resource type="StyleBox" uid="uid://3dkvo83xqhei" path="res://addons/Interface/Style/HGrabberHighlight.tres" id="15_psdyn"]
+[ext_resource type="StyleBox" uid="uid://r041aw3wtdl3" path="res://addons/Interface/Style/HGrabberPressed.tres" id="16_yjb70"]
+[ext_resource type="StyleBox" uid="uid://0twuq3nhj37h" path="res://addons/Interface/Style/Scroll.tres" id="17_h22q1"]
+[ext_resource type="Texture2D" uid="uid://b1fc2nn0h7ipe" path="res://addons/Interface/Sprite/ScrollThumb.png" id="18_ha570"]
+[ext_resource type="Texture2D" uid="uid://ci4loqr1adm15" path="res://addons/Interface/Sprite/TickNorth.png" id="19_igyfe"]
+[ext_resource type="StyleBox" uid="uid://dsidemjqg40ba" path="res://addons/Interface/Style/Input.tres" id="20_852e2"]
+[ext_resource type="StyleBox" uid="uid://byu4mubifmqps" path="res://addons/Interface/Style/HSliderGrabber.tres" id="21_kdrue"]
+[ext_resource type="StyleBox" uid="uid://bpfjiqnf430rg" path="res://addons/Interface/Style/InputDisable.tres" id="21_s6wab"]
+[ext_resource type="StyleBox" uid="uid://cj558a2mjfmhw" path="res://addons/Interface/Style/Panel.tres" id="22_1xxve"]
+[ext_resource type="StyleBox" uid="uid://ine4x7fwfxpj" path="res://addons/Interface/Style/HSliderGrabberHighlight.tres" id="22_wtorj"]
+[ext_resource type="StyleBox" uid="uid://co3sgs13g4mxy" path="res://addons/Interface/Style/Tab.tres" id="23_s0pyj"]
+[ext_resource type="StyleBox" uid="uid://r04uoejq72mj" path="res://addons/Interface/Style/Tooltip.tres" id="24_4tokj"]
+[ext_resource type="Texture2D" uid="uid://cno0av34v1puq" path="res://addons/Interface/Sprite/TickWest.png" id="25_6ui1u"]
+[ext_resource type="StyleBox" uid="uid://cl3g0v6e1rqrq" path="res://addons/Interface/Style/VGrabber.tres" id="26_w3rqc"]
+[ext_resource type="StyleBox" uid="uid://dc8ve3envxddf" path="res://addons/Interface/Style/VGrabberHighlight.tres" id="27_lw1yu"]
+[ext_resource type="StyleBox" uid="uid://b6bnvbpup8712" path="res://addons/Interface/Style/VGrabberPressed.tres" id="28_mkqjh"]
+[ext_resource type="StyleBox" uid="uid://b2f1eiry46hb4" path="res://addons/Interface/Style/VSliderGrabber.tres" id="32_s8otm"]
+[ext_resource type="StyleBox" uid="uid://jecslaampt4u" path="res://addons/Interface/Style/VSliderGrabberHighlight.tres" id="33_sgodh"]
 
 [resource]
 Button/colors/font_color = Color(0.88, 0.88, 0.88, 1)
@@ -33,12 +40,12 @@ Button/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
 Button/colors/font_color_hover = Color(0.94, 0.94, 0.94, 1)
 Button/colors/font_color_pressed = Color(1, 1, 1, 1)
 Button/constants/hseparation = 2
-Button/fonts/font = ExtResource("1_70pxg")
-Button/styles/disabled = ExtResource("8")
-Button/styles/focus = ExtResource("10")
-Button/styles/hover = ExtResource("7")
-Button/styles/normal = ExtResource("4")
-Button/styles/pressed = ExtResource("3")
+Button/fonts/font = ExtResource("1_832hi")
+Button/styles/disabled = ExtResource("2_qn603")
+Button/styles/focus = ExtResource("3_12k6t")
+Button/styles/hover = ExtResource("4_ce7fa")
+Button/styles/normal = ExtResource("5_g70tn")
+Button/styles/pressed = ExtResource("6_nmh4g")
 CheckBox/colors/font_color = Color(0.88, 0.88, 0.88, 1)
 CheckBox/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
 CheckBox/colors/font_color_hover = Color(0.94, 0.94, 0.94, 1)
@@ -46,17 +53,17 @@ CheckBox/colors/font_color_hover_pressed = Color(1, 1, 1, 1)
 CheckBox/colors/font_color_pressed = Color(1, 1, 1, 1)
 CheckBox/constants/check_vadjust = 0
 CheckBox/constants/hseparation = 4
-CheckBox/fonts/font = ExtResource("1_70pxg")
-CheckBox/icons/checked = ExtResource("22")
+CheckBox/fonts/font = ExtResource("1_832hi")
+CheckBox/icons/checked = ExtResource("7_lvh8k")
 CheckBox/icons/radio_checked = null
 CheckBox/icons/radio_unchecked = null
-CheckBox/icons/unchecked = ExtResource("23")
-CheckBox/styles/disabled = ExtResource("19")
-CheckBox/styles/focus = ExtResource("10")
-CheckBox/styles/hover = ExtResource("21")
-CheckBox/styles/hover_pressed = ExtResource("20")
-CheckBox/styles/normal = ExtResource("18")
-CheckBox/styles/pressed = ExtResource("20")
+CheckBox/icons/unchecked = ExtResource("8_0cmq5")
+CheckBox/styles/disabled = ExtResource("9_vi2tx")
+CheckBox/styles/focus = ExtResource("3_12k6t")
+CheckBox/styles/hover = ExtResource("10_es6cs")
+CheckBox/styles/hover_pressed = ExtResource("11_k0yak")
+CheckBox/styles/normal = ExtResource("12_t2w0c")
+CheckBox/styles/pressed = ExtResource("11_k0yak")
 CheckButton/colors/font_color = Color(0.88, 0.88, 0.88, 1)
 CheckButton/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
 CheckButton/colors/font_color_hover = Color(0.94, 0.94, 0.94, 1)
@@ -64,28 +71,29 @@ CheckButton/colors/font_color_hover_pressed = Color(1, 1, 1, 1)
 CheckButton/colors/font_color_pressed = Color(1, 1, 1, 1)
 CheckButton/constants/check_vadjust = 0
 CheckButton/constants/hseparation = 4
-CheckButton/fonts/font = ExtResource("1_70pxg")
-CheckButton/icons/off = ExtResource("24")
+CheckButton/fonts/font = ExtResource("1_832hi")
+CheckButton/icons/off = ExtResource("13_75206")
 CheckButton/icons/off_disabled = null
-CheckButton/icons/on = ExtResource("25")
+CheckButton/icons/on = ExtResource("14_6cxxb")
 CheckButton/icons/on_disabled = null
-CheckButton/styles/disabled = ExtResource("19")
-CheckButton/styles/focus = ExtResource("10")
-CheckButton/styles/hover = ExtResource("21")
-CheckButton/styles/hover_pressed = ExtResource("20")
-CheckButton/styles/normal = ExtResource("18")
-CheckButton/styles/pressed = ExtResource("20")
-HScrollBar/styles/grabber = ExtResource("14")
-HScrollBar/styles/grabber_highlight = ExtResource("16_6nd30")
-HScrollBar/styles/grabber_pressed = ExtResource("17_2mvkt")
-HScrollBar/styles/scroll = ExtResource("13")
-HScrollBar/styles/scroll_focus = ExtResource("10")
-HSlider/icons/grabber = ExtResource("16")
-HSlider/icons/grabber_disabled = ExtResource("16")
-HSlider/icons/grabber_highlight = ExtResource("16")
-HSlider/icons/tick = ExtResource("17")
-HSlider/styles/grabber_area = ExtResource("14")
-HSlider/styles/slider = ExtResource("13")
+CheckButton/styles/disabled = ExtResource("9_vi2tx")
+CheckButton/styles/focus = ExtResource("3_12k6t")
+CheckButton/styles/hover = ExtResource("10_es6cs")
+CheckButton/styles/hover_pressed = ExtResource("11_k0yak")
+CheckButton/styles/normal = ExtResource("12_t2w0c")
+CheckButton/styles/pressed = ExtResource("11_k0yak")
+HScrollBar/styles/grabber = ExtResource("15_l4m77")
+HScrollBar/styles/grabber_highlight = ExtResource("15_psdyn")
+HScrollBar/styles/grabber_pressed = ExtResource("16_yjb70")
+HScrollBar/styles/scroll = ExtResource("17_h22q1")
+HScrollBar/styles/scroll_focus = ExtResource("3_12k6t")
+HSlider/icons/grabber = ExtResource("18_ha570")
+HSlider/icons/grabber_disabled = ExtResource("18_ha570")
+HSlider/icons/grabber_highlight = ExtResource("18_ha570")
+HSlider/icons/tick = ExtResource("19_igyfe")
+HSlider/styles/grabber_area = ExtResource("21_kdrue")
+HSlider/styles/grabber_area_highlight = ExtResource("22_wtorj")
+HSlider/styles/slider = ExtResource("17_h22q1")
 LineEdit/colors/clear_button_color = Color(0.623529, 0.690196, 1, 1)
 LineEdit/colors/clear_button_color_pressed = Color(0.623529, 0.690196, 1, 1)
 LineEdit/colors/cursor_color = Color(0.623529, 0.690196, 1, 1)
@@ -95,11 +103,11 @@ LineEdit/colors/font_color_uneditable = Color(0.88, 0.88, 0.88, 0.5)
 LineEdit/colors/selection_color = Color(0.49, 0.49, 0.49, 1)
 LineEdit/constants/minimum_spaces = 12
 LineEdit/icons/clear = null
-LineEdit/styles/focus = ExtResource("10")
-LineEdit/styles/normal = ExtResource("6")
-LineEdit/styles/read_only = ExtResource("11")
-Panel/styles/panel = ExtResource("2")
-PanelContainer/styles/panel = ExtResource("2")
+LineEdit/styles/focus = ExtResource("3_12k6t")
+LineEdit/styles/normal = ExtResource("20_852e2")
+LineEdit/styles/read_only = ExtResource("21_s6wab")
+Panel/styles/panel = ExtResource("22_1xxve")
+PanelContainer/styles/panel = ExtResource("22_1xxve")
 TabBar/colors/font_color_bg = Color(0.69, 0.69, 0.69, 1)
 TabBar/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
 TabBar/colors/font_color_fg = Color(0.94, 0.94, 0.94, 1)
@@ -112,12 +120,12 @@ TabBar/icons/decrement = null
 TabBar/icons/decrement_highlight = null
 TabBar/icons/increment = null
 TabBar/icons/increment_highlight = null
-TabBar/styles/button = ExtResource("9")
-TabBar/styles/button_pressed = ExtResource("9")
-TabBar/styles/panel = ExtResource("9")
-TabBar/styles/tab_bg = ExtResource("9")
-TabBar/styles/tab_disabled = ExtResource("9")
-TabBar/styles/tab_fg = ExtResource("9")
+TabBar/styles/button = ExtResource("23_s0pyj")
+TabBar/styles/button_pressed = ExtResource("23_s0pyj")
+TabBar/styles/panel = ExtResource("23_s0pyj")
+TabBar/styles/tab_bg = ExtResource("23_s0pyj")
+TabBar/styles/tab_disabled = ExtResource("23_s0pyj")
+TabBar/styles/tab_fg = ExtResource("23_s0pyj")
 TabContainer/colors/font_color_bg = Color(0.69, 0.69, 0.69, 1)
 TabContainer/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
 TabContainer/colors/font_color_fg = Color(0.94, 0.94, 0.94, 1)
@@ -132,10 +140,10 @@ TabContainer/icons/increment = null
 TabContainer/icons/increment_highlight = null
 TabContainer/icons/menu = null
 TabContainer/icons/menu_highlight = null
-TabContainer/styles/panel = ExtResource("9")
-TabContainer/styles/tab_bg = ExtResource("9")
-TabContainer/styles/tab_disabled = ExtResource("9")
-TabContainer/styles/tab_fg = ExtResource("9")
+TabContainer/styles/panel = ExtResource("23_s0pyj")
+TabContainer/styles/tab_bg = ExtResource("23_s0pyj")
+TabContainer/styles/tab_disabled = ExtResource("23_s0pyj")
+TabContainer/styles/tab_fg = ExtResource("23_s0pyj")
 TextEdit/colors/background_color = Color(0, 0, 0, 0)
 TextEdit/colors/bookmark_color = Color(0.08, 0.49, 0.98, 1)
 TextEdit/colors/brace_mismatch_color = Color(1, 0.2, 0.2, 1)
@@ -170,15 +178,15 @@ TextEdit/icons/fold = null
 TextEdit/icons/folded = null
 TextEdit/icons/space = null
 TextEdit/icons/tab = null
-TextEdit/styles/completion = ExtResource("6")
-TextEdit/styles/focus = ExtResource("10")
-TextEdit/styles/normal = ExtResource("6")
-TextEdit/styles/read_only = ExtResource("11")
+TextEdit/styles/completion = ExtResource("20_852e2")
+TextEdit/styles/focus = ExtResource("3_12k6t")
+TextEdit/styles/normal = ExtResource("20_852e2")
+TextEdit/styles/read_only = ExtResource("21_s6wab")
 TooltipLabel/colors/font_color = Color(1, 1, 1, 1)
 TooltipLabel/colors/font_color_shadow = Color(0.231373, 0.262745, 0.321569, 1)
 TooltipLabel/constants/shadow_offset_x = 3
 TooltipLabel/constants/shadow_offset_y = 3
-TooltipPanel/styles/panel = ExtResource("1")
+TooltipPanel/styles/panel = ExtResource("24_4tokj")
 Tree/colors/custom_button_font_highlight = Color(0.94, 0.94, 0.94, 1)
 Tree/colors/drop_position_color = Color(1, 0.3, 0.2, 1)
 Tree/colors/font_color = Color(0.69, 0.69, 0.69, 1)
@@ -200,7 +208,7 @@ Tree/icons/checked = null
 Tree/icons/select_arrow = null
 Tree/icons/unchecked = null
 Tree/icons/updown = null
-Tree/styles/bg = ExtResource("2")
+Tree/styles/bg = ExtResource("22_1xxve")
 Tree/styles/bg_focus = null
 Tree/styles/button_pressed = null
 Tree/styles/cursor = null
@@ -213,14 +221,15 @@ Tree/styles/selected_focus = null
 Tree/styles/title_button_hover = null
 Tree/styles/title_button_normal = null
 Tree/styles/title_button_pressed = null
-VScrollBar/styles/grabber = ExtResource("14")
-VScrollBar/styles/grabber_highlight = ExtResource("16_6nd30")
-VScrollBar/styles/grabber_pressed = ExtResource("17_2mvkt")
-VScrollBar/styles/scroll = ExtResource("13")
-VScrollBar/styles/scroll_focus = ExtResource("10")
-VSlider/icons/grabber = ExtResource("16")
-VSlider/icons/grabber_disabled = ExtResource("16")
-VSlider/icons/grabber_highlight = ExtResource("16")
-VSlider/icons/tick = ExtResource("28")
-VSlider/styles/grabber_area = ExtResource("14")
-VSlider/styles/slider = ExtResource("13")
+VScrollBar/styles/grabber = ExtResource("26_w3rqc")
+VScrollBar/styles/grabber_highlight = ExtResource("27_lw1yu")
+VScrollBar/styles/grabber_pressed = ExtResource("28_mkqjh")
+VScrollBar/styles/scroll = ExtResource("17_h22q1")
+VScrollBar/styles/scroll_focus = ExtResource("3_12k6t")
+VSlider/icons/grabber = ExtResource("18_ha570")
+VSlider/icons/grabber_disabled = ExtResource("18_ha570")
+VSlider/icons/grabber_highlight = ExtResource("18_ha570")
+VSlider/icons/tick = ExtResource("25_6ui1u")
+VSlider/styles/grabber_area = ExtResource("32_s8otm")
+VSlider/styles/grabber_area_highlight = ExtResource("33_sgodh")
+VSlider/styles/slider = ExtResource("17_h22q1")
