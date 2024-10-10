@@ -1,4 +1,4 @@
-[gd_resource type="Theme" load_steps=34 format=3 uid="uid://r85ynmhkykon"]
+[gd_resource type="Theme" load_steps=32 format=3 uid="uid://r85ynmhkykon"]
 
 [ext_resource type="FontVariation" uid="uid://bt5remx3x1xe" path="res://addons/Interface/Font/VeniceOffset.tres" id="1_832hi"]
 [ext_resource type="StyleBox" uid="uid://d3708px87bh5i" path="res://addons/Interface/Style/ButtonDisable.tres" id="2_qn603"]
@@ -14,25 +14,23 @@
 [ext_resource type="StyleBox" uid="uid://dbgdasm5b8ft5" path="res://addons/Interface/Style/Check.tres" id="12_t2w0c"]
 [ext_resource type="Texture2D" uid="uid://cm3gctoje4kfw" path="res://addons/Interface/Sprite/Off.png" id="13_75206"]
 [ext_resource type="Texture2D" uid="uid://hyhm61ydt3sd" path="res://addons/Interface/Sprite/On.png" id="14_6cxxb"]
-[ext_resource type="StyleBox" uid="uid://b40wnea47d0i" path="res://addons/Interface/Style/HGrabber.tres" id="15_l4m77"]
-[ext_resource type="StyleBox" uid="uid://3dkvo83xqhei" path="res://addons/Interface/Style/HGrabberHighlight.tres" id="15_psdyn"]
-[ext_resource type="StyleBox" uid="uid://r041aw3wtdl3" path="res://addons/Interface/Style/HGrabberPressed.tres" id="16_yjb70"]
-[ext_resource type="StyleBox" uid="uid://0twuq3nhj37h" path="res://addons/Interface/Style/Scroll.tres" id="17_h22q1"]
+[ext_resource type="StyleBox" uid="uid://b40wnea47d0i" path="res://addons/Interface/Style/Grabber.tres" id="15_o7dce"]
+[ext_resource type="StyleBox" uid="uid://3dkvo83xqhei" path="res://addons/Interface/Style/GrabberHighlight.tres" id="16_6ojp0"]
+[ext_resource type="StyleBox" uid="uid://r041aw3wtdl3" path="res://addons/Interface/Style/GrabberPressed.tres" id="17_pg1p2"]
 [ext_resource type="Texture2D" uid="uid://b1fc2nn0h7ipe" path="res://addons/Interface/Sprite/ScrollThumb.png" id="18_ha570"]
+[ext_resource type="StyleBox" uid="uid://0twuq3nhj37h" path="res://addons/Interface/Style/HScroll.tres" id="18_rc6g3"]
 [ext_resource type="Texture2D" uid="uid://ci4loqr1adm15" path="res://addons/Interface/Sprite/TickNorth.png" id="19_igyfe"]
+[ext_resource type="StyleBox" uid="uid://b1uo1bpom3aba" path="res://addons/Interface/Style/HScrollFocus.tres" id="19_vtyxx"]
 [ext_resource type="StyleBox" uid="uid://dsidemjqg40ba" path="res://addons/Interface/Style/Input.tres" id="20_852e2"]
-[ext_resource type="StyleBox" uid="uid://byu4mubifmqps" path="res://addons/Interface/Style/HSliderGrabber.tres" id="21_kdrue"]
 [ext_resource type="StyleBox" uid="uid://bpfjiqnf430rg" path="res://addons/Interface/Style/InputDisable.tres" id="21_s6wab"]
 [ext_resource type="StyleBox" uid="uid://cj558a2mjfmhw" path="res://addons/Interface/Style/Panel.tres" id="22_1xxve"]
-[ext_resource type="StyleBox" uid="uid://ine4x7fwfxpj" path="res://addons/Interface/Style/HSliderGrabberHighlight.tres" id="22_wtorj"]
+[ext_resource type="StyleBox" uid="uid://byu4mubifmqps" path="res://addons/Interface/Style/SliderGrabber.tres" id="22_tvdcc"]
+[ext_resource type="StyleBox" uid="uid://ine4x7fwfxpj" path="res://addons/Interface/Style/SliderGrabberHighlight.tres" id="23_gbotb"]
 [ext_resource type="StyleBox" uid="uid://co3sgs13g4mxy" path="res://addons/Interface/Style/Tab.tres" id="23_s0pyj"]
 [ext_resource type="StyleBox" uid="uid://r04uoejq72mj" path="res://addons/Interface/Style/Tooltip.tres" id="24_4tokj"]
 [ext_resource type="Texture2D" uid="uid://cno0av34v1puq" path="res://addons/Interface/Sprite/TickWest.png" id="25_6ui1u"]
-[ext_resource type="StyleBox" uid="uid://cl3g0v6e1rqrq" path="res://addons/Interface/Style/VGrabber.tres" id="26_w3rqc"]
-[ext_resource type="StyleBox" uid="uid://dc8ve3envxddf" path="res://addons/Interface/Style/VGrabberHighlight.tres" id="27_lw1yu"]
-[ext_resource type="StyleBox" uid="uid://b6bnvbpup8712" path="res://addons/Interface/Style/VGrabberPressed.tres" id="28_mkqjh"]
-[ext_resource type="StyleBox" uid="uid://b2f1eiry46hb4" path="res://addons/Interface/Style/VSliderGrabber.tres" id="32_s8otm"]
-[ext_resource type="StyleBox" uid="uid://jecslaampt4u" path="res://addons/Interface/Style/VSliderGrabberHighlight.tres" id="33_sgodh"]
+[ext_resource type="StyleBox" uid="uid://du27hbex5udij" path="res://addons/Interface/Style/VScroll.tres" id="29_qw56h"]
+[ext_resource type="StyleBox" uid="uid://dukadcg8l8bj4" path="res://addons/Interface/Style/VScrollFocus.tres" id="30_4ebga"]
 
 [resource]
 Button/colors/font_color = Color(0.88, 0.88, 0.88, 1)
@@ -82,18 +80,18 @@ CheckButton/styles/hover = ExtResource("10_es6cs")
 CheckButton/styles/hover_pressed = ExtResource("11_k0yak")
 CheckButton/styles/normal = ExtResource("12_t2w0c")
 CheckButton/styles/pressed = ExtResource("11_k0yak")
-HScrollBar/styles/grabber = ExtResource("15_l4m77")
-HScrollBar/styles/grabber_highlight = ExtResource("15_psdyn")
-HScrollBar/styles/grabber_pressed = ExtResource("16_yjb70")
-HScrollBar/styles/scroll = ExtResource("17_h22q1")
-HScrollBar/styles/scroll_focus = ExtResource("3_12k6t")
+HScrollBar/styles/grabber = ExtResource("15_o7dce")
+HScrollBar/styles/grabber_highlight = ExtResource("16_6ojp0")
+HScrollBar/styles/grabber_pressed = ExtResource("17_pg1p2")
+HScrollBar/styles/scroll = ExtResource("18_rc6g3")
+HScrollBar/styles/scroll_focus = ExtResource("19_vtyxx")
 HSlider/icons/grabber = ExtResource("18_ha570")
 HSlider/icons/grabber_disabled = ExtResource("18_ha570")
 HSlider/icons/grabber_highlight = ExtResource("18_ha570")
 HSlider/icons/tick = ExtResource("19_igyfe")
-HSlider/styles/grabber_area = ExtResource("21_kdrue")
-HSlider/styles/grabber_area_highlight = ExtResource("22_wtorj")
-HSlider/styles/slider = ExtResource("17_h22q1")
+HSlider/styles/grabber_area = ExtResource("22_tvdcc")
+HSlider/styles/grabber_area_highlight = ExtResource("23_gbotb")
+HSlider/styles/slider = ExtResource("18_rc6g3")
 LineEdit/colors/clear_button_color = Color(0.623529, 0.690196, 1, 1)
 LineEdit/colors/clear_button_color_pressed = Color(0.623529, 0.690196, 1, 1)
 LineEdit/colors/cursor_color = Color(0.623529, 0.690196, 1, 1)
@@ -221,15 +219,15 @@ Tree/styles/selected_focus = null
 Tree/styles/title_button_hover = null
 Tree/styles/title_button_normal = null
 Tree/styles/title_button_pressed = null
-VScrollBar/styles/grabber = ExtResource("26_w3rqc")
-VScrollBar/styles/grabber_highlight = ExtResource("27_lw1yu")
-VScrollBar/styles/grabber_pressed = ExtResource("28_mkqjh")
-VScrollBar/styles/scroll = ExtResource("17_h22q1")
-VScrollBar/styles/scroll_focus = ExtResource("3_12k6t")
+VScrollBar/styles/grabber = ExtResource("15_o7dce")
+VScrollBar/styles/grabber_highlight = ExtResource("16_6ojp0")
+VScrollBar/styles/grabber_pressed = ExtResource("17_pg1p2")
+VScrollBar/styles/scroll = ExtResource("29_qw56h")
+VScrollBar/styles/scroll_focus = ExtResource("30_4ebga")
 VSlider/icons/grabber = ExtResource("18_ha570")
 VSlider/icons/grabber_disabled = ExtResource("18_ha570")
 VSlider/icons/grabber_highlight = ExtResource("18_ha570")
 VSlider/icons/tick = ExtResource("25_6ui1u")
-VSlider/styles/grabber_area = ExtResource("32_s8otm")
-VSlider/styles/grabber_area_highlight = ExtResource("33_sgodh")
-VSlider/styles/slider = ExtResource("17_h22q1")
+VSlider/styles/grabber_area = ExtResource("22_tvdcc")
+VSlider/styles/grabber_area_highlight = ExtResource("23_gbotb")
+VSlider/styles/slider = ExtResource("29_qw56h")

@@ -1,9 +1,9 @@
 [gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://byu4mubifmqps"]
 
-[ext_resource type="Texture2D" uid="uid://byq1ldl51lnrd" path="res://addons/Interface/Sprite/ScrollProgress.png" id="1_meabn"]
+[ext_resource type="Texture2D" uid="uid://byq1ldl51lnrd" path="res://addons/Interface/Sprite/ScrollProgress.png" id="1_26bji"]
 
 [resource]
-texture = ExtResource("1_meabn")
+texture = ExtResource("1_26bji")
 texture_margin_left = 6.0
 texture_margin_top = 6.0
 texture_margin_right = 6.0
